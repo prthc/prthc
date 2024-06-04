@@ -10,6 +10,7 @@ public class HelloWorld {
 
 Tech enthusiast in the making, on a mission to sprinkle a little magic into the world of 1s and 0s! Currently navigating the maze of algorithms as a computing undergrad. With an unyielding motivation to coordinate success within the technology industry while developing new skills and gaining real-world experience.
 
+<!---
 # About Me
 
 - 👋 Hi, I’m @Preetha
